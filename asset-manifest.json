@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactweb.github.io/static/css/main.0d0ce0b0.css",
+    "main.js": "/reactweb.github.io/static/js/main.4a6c632e.js",
+    "static/js/787.bfb54a5b.chunk.js": "/reactweb.github.io/static/js/787.bfb54a5b.chunk.js",
+    "static/media/About.jpg": "/reactweb.github.io/static/media/About.f4e32b23ef0e79f447bf.jpg",
+    "static/media/bootstrap-icons.woff?": "/reactweb.github.io/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/Nature-1.jpeg": "/reactweb.github.io/static/media/Nature-1.d9f127eeb0cbf66f4640.jpeg",
+    "static/media/bootstrap-icons.woff2?": "/reactweb.github.io/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "static/media/Nature-3.jpeg": "/reactweb.github.io/static/media/Nature-3.4fcc82918282539b4a07.jpeg",
+    "static/media/Nature-4.jpeg": "/reactweb.github.io/static/media/Nature-4.8e7af10f973db4d53354.jpeg",
+    "static/media/Nature-2.jpeg": "/reactweb.github.io/static/media/Nature-2.cce5dc96fa97b20d08c3.jpeg",
+    "index.html": "/reactweb.github.io/index.html",
+    "main.0d0ce0b0.css.map": "/reactweb.github.io/static/css/main.0d0ce0b0.css.map",
+    "main.4a6c632e.js.map": "/reactweb.github.io/static/js/main.4a6c632e.js.map",
+    "787.bfb54a5b.chunk.js.map": "/reactweb.github.io/static/js/787.bfb54a5b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d0ce0b0.css",
+    "static/js/main.4a6c632e.js"
+  ]
+}
