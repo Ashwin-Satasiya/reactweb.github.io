@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar-main{
+    background-color: rgb(100, 100, 175);
+}
+
+.logo{
+    margin-left: 30px;
+    color:white !important;
+}
+
+.navbar-toggle-custom  {
+    background-color: #60cf44  !important;
+}
+
+.nav-link{
+    color:white !important;
+    font-size: 20px !important;
+    margin-left: 10px;
+}
+
+.nav-link:hover{
+    color: rgb(147, 230, 15) !important;
+}

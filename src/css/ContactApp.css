@@ -1,0 +1,15 @@
+
+#contact h1{
+    color:rgb(204, 114, 12);
+}
+
+#contact .btn{
+    background-color: rgb(230, 19, 64);
+    border: none;
+}
+
+#contact .form-div{
+    background-color: rgb(69, 143, 223) !important;
+    padding: 25px 30px;
+    border-radius: 8px;
+}

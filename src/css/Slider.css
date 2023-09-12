@@ -1,0 +1,31 @@
+.carousel {
+    height: 583px;
+
+}
+ 
+.carousel-inner {
+    height: 100%;
+}
+
+.carousel-item {
+    height: 100%;
+}
+
+.carousel-item img {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+} 
+
+.carousel .header1{
+    color: rgb(221, 129, 23);
+}
+.carousel .header2{
+    color: rgb(189, 192, 235);
+}
+.carousel .header3{
+    color:turquoise;
+}
+.carousel .header4{
+    color:yellowgreen;
+}

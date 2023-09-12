@@ -1,0 +1,29 @@
+#footer .bi{
+    font-size: 30px;
+    margin-left: 10px;
+}
+
+#footer .bi-facebook{
+    color: blue;
+}
+
+#footer .bi-twitter {
+    color: rgb(72, 190, 219);
+}
+
+#footer .bi-whatsapp {
+    color: rgb(85, 233, 117);
+}
+#footer .bi-instagram {
+    color: rgb(221, 14, 59);
+}
+
+@media only screen and (max-width: 767px) {
+    #footer .media-head {
+        margin-top: 15px;
+    }
+
+    #footer .media{
+        margin-top: 15px;
+    }
+}
